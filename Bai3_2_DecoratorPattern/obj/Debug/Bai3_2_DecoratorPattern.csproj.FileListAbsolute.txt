@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_2_DecoratorPattern\bin\Debug\Bai3_2_DecoratorPattern.exe.config
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_2_DecoratorPattern\bin\Debug\Bai3_2_DecoratorPattern.exe
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_2_DecoratorPattern\bin\Debug\Bai3_2_DecoratorPattern.pdb
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_2_DecoratorPattern\obj\Debug\Bai3_2_DecoratorPattern.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_2_DecoratorPattern\obj\Debug\Bai3_2_DecoratorPattern.exe
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_2_DecoratorPattern\obj\Debug\Bai3_2_DecoratorPattern.pdb

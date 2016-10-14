@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_FactoryMethod\bin\Debug\Bai3_FactoryMethod.exe.config
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_FactoryMethod\obj\Debug\Bai3_FactoryMethod.exe
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_FactoryMethod\obj\Debug\Bai3_FactoryMethod.pdb
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_FactoryMethod\bin\Debug\Bai3_FactoryMethod.exe
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_FactoryMethod\bin\Debug\Bai3_FactoryMethod.pdb

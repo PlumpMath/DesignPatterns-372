@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_3_FacadePattern\bin\Debug\Bai3_3_FacadePattern.exe.config
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_3_FacadePattern\bin\Debug\Bai3_3_FacadePattern.exe
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_3_FacadePattern\bin\Debug\Bai3_3_FacadePattern.pdb
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_3_FacadePattern\obj\Debug\Bai3_3_FacadePattern.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_3_FacadePattern\obj\Debug\Bai3_3_FacadePattern.exe
+E:\Documents\Visual Studio 2015\Projects\BaiTap_DesignPatterns\Bai3_3_FacadePattern\obj\Debug\Bai3_3_FacadePattern.pdb
