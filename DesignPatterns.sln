@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1", "Bai1\Bai1.csproj", "{ECAEE28B-2090-404D-A1ED-5F4A0DC2A27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_Observer_Singleton", "Bai4_Observer_Singleton\Bai4_Observer_Singleton.csproj", "{63FA8748-B954-4070-B3C5-70E8067A8728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_2_DecoratorPattern", "..\BaiTap_DesignPatterns\Bai3_2_DecoratorPattern\Bai3_2_DecoratorPattern.csproj", "{040632F2-B479-4A77-9173-A22E4B3F3605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_3_FacadePattern", "..\BaiTap_DesignPatterns\Bai3_3_FacadePattern\Bai3_3_FacadePattern.csproj", "{1080C6F0-201E-4800-8F3A-4FDDC5E5048B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_1_FactoryMethod", "..\BaiTap_DesignPatterns\Bai3_FactoryMethod\Bai3_1_FactoryMethod.csproj", "{F3CF042E-2F9E-4F95-A09A-586A5E1662DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAEE28B-2090-404D-A1ED-5F4A0DC2A27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAEE28B-2090-404D-A1ED-5F4A0DC2A27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAEE28B-2090-404D-A1ED-5F4A0DC2A27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAEE28B-2090-404D-A1ED-5F4A0DC2A27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FA8748-B954-4070-B3C5-70E8067A8728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FA8748-B954-4070-B3C5-70E8067A8728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FA8748-B954-4070-B3C5-70E8067A8728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FA8748-B954-4070-B3C5-70E8067A8728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040632F2-B479-4A77-9173-A22E4B3F3605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040632F2-B479-4A77-9173-A22E4B3F3605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040632F2-B479-4A77-9173-A22E4B3F3605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040632F2-B479-4A77-9173-A22E4B3F3605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1080C6F0-201E-4800-8F3A-4FDDC5E5048B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1080C6F0-201E-4800-8F3A-4FDDC5E5048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1080C6F0-201E-4800-8F3A-4FDDC5E5048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1080C6F0-201E-4800-8F3A-4FDDC5E5048B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CF042E-2F9E-4F95-A09A-586A5E1662DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CF042E-2F9E-4F95-A09A-586A5E1662DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CF042E-2F9E-4F95-A09A-586A5E1662DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CF042E-2F9E-4F95-A09A-586A5E1662DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

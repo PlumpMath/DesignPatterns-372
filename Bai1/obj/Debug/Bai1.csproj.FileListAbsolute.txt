@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai1\bin\Debug\Bai1.exe.config
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai1\obj\Debug\Bai1.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai1\obj\Debug\Bai1.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai1\bin\Debug\Bai1.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai1\bin\Debug\Bai1.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\bin\Debug\Bai4_Observer_Singleton.exe.config
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\bin\Debug\Bai4_Observer_Singleton.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\bin\Debug\Bai4_Observer_Singleton.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.FormKhoiDong.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.Form_Config.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.Form_Sub1.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.Form_Sub2.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai4_Observer_Singleton\obj\Debug\Bai4_Observer_Singleton.pdb
