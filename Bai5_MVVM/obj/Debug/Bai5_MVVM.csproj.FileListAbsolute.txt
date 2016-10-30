@@ -1,0 +1,14 @@
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\bin\Debug\Bai5_MVVM.exe.config
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\bin\Debug\Bai5_MVVM.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\bin\Debug\Bai5_MVVM.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\bin\Debug\EntityFramework.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\bin\Debug\EntityFramework.xml
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\obj\Debug\Bai5_MVVM.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\obj\Debug\Bai5_MVVM.Form1.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\obj\Debug\Bai5_MVVM.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\obj\Debug\Bai5_MVVM.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\obj\Debug\Bai5_MVVM.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\obj\Debug\Bai5_MVVM.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai5_MVVM\obj\Debug\Bai5_MVVM.Form_New_Student.resources
