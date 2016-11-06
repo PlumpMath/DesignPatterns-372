@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq;
 using System.Windows.Forms;
 
 namespace Bai5_MVVM
@@ -19,7 +15,7 @@ namespace Bai5_MVVM
 
         public ViewModel()
         {
-            entity = new DesignPatternDB();
+            entity = DesignPatternDB.ConnectDB();
             ob_BindingList = new BindingSource();
         }
 

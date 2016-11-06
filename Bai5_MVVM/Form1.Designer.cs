@@ -41,6 +41,7 @@
             this.btn_AddNew = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dg)).BeginInit();
             this.SuspendLayout();
             // 
@@ -135,7 +136,7 @@
             // 
             this.btn_Del.BackColor = System.Drawing.Color.Red;
             this.btn_Del.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.btn_Del.Location = new System.Drawing.Point(148, 388);
+            this.btn_Del.Location = new System.Drawing.Point(37, 391);
             this.btn_Del.Name = "btn_Del";
             this.btn_Del.Size = new System.Drawing.Size(75, 31);
             this.btn_Del.TabIndex = 9;
@@ -147,7 +148,7 @@
             // 
             this.btn_AddNew.BackColor = System.Drawing.Color.Lime;
             this.btn_AddNew.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.btn_AddNew.Location = new System.Drawing.Point(286, 388);
+            this.btn_AddNew.Location = new System.Drawing.Point(175, 391);
             this.btn_AddNew.Name = "btn_AddNew";
             this.btn_AddNew.Size = new System.Drawing.Size(75, 31);
             this.btn_AddNew.TabIndex = 10;
@@ -159,7 +160,7 @@
             // 
             this.button3.BackColor = System.Drawing.Color.Fuchsia;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button3.Location = new System.Drawing.Point(409, 388);
+            this.button3.Location = new System.Drawing.Point(298, 391);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 31);
             this.button3.TabIndex = 11;
@@ -177,11 +178,24 @@
             this.label5.TabIndex = 12;
             this.label5.Text = "STUDENTS";
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.label6.ForeColor = System.Drawing.Color.Green;
+            this.label6.Location = new System.Drawing.Point(432, 391);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(194, 25);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Open Product Form?";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(638, 441);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.btn_AddNew);
@@ -219,6 +233,7 @@
         private System.Windows.Forms.Button btn_AddNew;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
     }
 }
 

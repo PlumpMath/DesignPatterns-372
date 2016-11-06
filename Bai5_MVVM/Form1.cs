@@ -13,7 +13,8 @@ namespace Bai5_MVVM
     public partial class Form1 : Form,IObserver
     {
         Subject sub;
-        ViewModel vm = new ViewModel();
+        //ViewModel vm = new ViewModel();
+        ViewModel_Student vm = new ViewModel_Student();
         BindingSource bindingSource = new BindingSource();
 
         public Form1()
@@ -54,8 +55,12 @@ namespace Bai5_MVVM
             stu.Name = txtName.Text;
             stu.Phone = txtPhone.Text;
             stu.Address = txtAdd.Text;
-           
-            vm.Update(stu);
+            //MessageBox.Show(vm.Update(stu).ToString());
+            int t = vm.Update(stu);
+            if (t <= 0)
+                MessageBox.Show("Không có gì để cập nhật!");
+            else
+                MessageBox.Show("Cập nhật thành công!");
         }
 
         private void btn_AddNew_Click(object sender, EventArgs e)
@@ -83,9 +88,20 @@ namespace Bai5_MVVM
 
         public void AddStudent(Student student)
         {
-            vm.Add(student);
-            dg.Rows[bindingSource.Count - 1].Selected = true;
-            vm.CurrentIndex = bindingSource.Count - 1;
+            int t = vm.Add(student);
+            if (t == -1)
+                MessageBox.Show("Bị trùng dữ liệu tên hoặc số điện thoại!");
+            else
+            {
+                dg.Rows[bindingSource.Count - 1].Selected = true;
+                vm.CurrentIndex = bindingSource.Count - 1;
+            }
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            Form_Product f = new Form_Product();
+            f.Show();
         }
     }
 }
