@@ -1,0 +1,9 @@
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\bin\Debug\Bai7_ViewInterface.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\bin\Debug\Bai7_ViewInterface.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\bin\Debug\Bai7_DataModel.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\bin\Debug\EntityFramework.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\bin\Debug\Bai7_DataModel.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\bin\Debug\EntityFramework.xml
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\obj\Debug\Bai7_ViewInterface.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\obj\Debug\Bai7_ViewInterface.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_ViewInterface\obj\Debug\Bai7_ViewInterface.pdb

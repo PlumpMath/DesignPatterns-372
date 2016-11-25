@@ -1,0 +1,9 @@
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\bin\Debug\Bai8_Iterator.exe.config
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\bin\Debug\Bai8_Iterator.exe
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\bin\Debug\Bai8_Iterator.pdb
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\obj\Debug\Bai8_Iterator.csprojResolveAssemblyReference.cache
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\obj\Debug\Bai8_Iterator.IteratorApp.resources
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\obj\Debug\Bai8_Iterator.Properties.Resources.resources
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\obj\Debug\Bai8_Iterator.csproj.GenerateResource.Cache
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\obj\Debug\Bai8_Iterator.exe
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai8_Iterator\obj\Debug\Bai8_Iterator.pdb

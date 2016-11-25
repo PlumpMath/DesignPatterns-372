@@ -1,0 +1,12 @@
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\bin\Debug\Bai7_MVP.exe.config
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\bin\Debug\Bai7_MVP.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\bin\Debug\Bai7_MVP.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.Form1.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.exe
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.pdb
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\bin\Debug\Bai7_MVP.exe.config
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.exe
+H:\Data\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_MVP\obj\Debug\Bai7_MVP.pdb

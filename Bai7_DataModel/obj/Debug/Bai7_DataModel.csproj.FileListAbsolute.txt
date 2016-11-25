@@ -1,0 +1,10 @@
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\bin\Debug\Bai7_DataModel.dll.config
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\bin\Debug\Bai7_DataModel.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\bin\Debug\Bai7_DataModel.pdb
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\bin\Debug\EntityFramework.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\bin\Debug\EntityFramework.xml
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\obj\Debug\Bai7_DataModel.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\obj\Debug\Bai7_DataModel.dll
+E:\Documents\Visual Studio 2015\Projects\DesignPatterns\Bai7_DataModel\obj\Debug\Bai7_DataModel.pdb

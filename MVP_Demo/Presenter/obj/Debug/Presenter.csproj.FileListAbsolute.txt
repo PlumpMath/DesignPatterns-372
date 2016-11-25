@@ -1,0 +1,12 @@
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\Presenter.dll.config
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\Presenter.dll
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\Presenter.pdb
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\DataModel.dll
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\EntityFramework.dll
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\ViewInterface.dll
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\DataModel.pdb
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\ViewInterface.pdb
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\bin\Debug\EntityFramework.xml
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\obj\Debug\Presenter.csprojResolveAssemblyReference.cache
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\obj\Debug\Presenter.dll
+D:\Pengwing\DATA\Documents\Visual\Projects\Design Patterns\MVPDemo\Presenter\obj\Debug\Presenter.pdb
